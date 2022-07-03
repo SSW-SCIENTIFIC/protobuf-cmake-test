@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package Sample;
+
+message Message {
+  int64 TestField = 1;
+}
